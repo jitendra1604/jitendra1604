@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jitendra1604
+- 👋 Hi, I’m @jitendra
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning react js
 
